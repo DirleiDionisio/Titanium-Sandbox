@@ -7,9 +7,9 @@
         <target device="android">true</target>
         <target device="blackberry">false</target>
     </deployment-targets>
-    <sdk-version>1.8.1</sdk-version>
+    <sdk-version>2.0.1.GA2</sdk-version>
     <id>com.dirleidionisio.tisandbox</id>
-    <name>Titanium-SandBox</name>
+    <name>SandBox</name>
     <version>1.0</version>
     <publisher>Dirlei Dionisio</publisher>
     <url>http://</url>
@@ -22,7 +22,7 @@
     <statusbar-hidden>false</statusbar-hidden>
     <fullscreen>false</fullscreen>
     <navbar-hidden>false</navbar-hidden>
-    <analytics>true</analytics>
+    <analytics>false</analytics>
     <guid>d01a2da4-041b-4a62-aa67-d09cd9425d92</guid>
     <iphone>
         <orientations device="iphone">
